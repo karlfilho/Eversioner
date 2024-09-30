@@ -21,7 +21,7 @@ Este projeto é um gerador automatizado de provas para o curso de Medicina da Un
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/gerador-de-provas.git
+   git clone https://github.com/karlfilho/eversioner.git
    ```
 
 2. Instale as dependências:
