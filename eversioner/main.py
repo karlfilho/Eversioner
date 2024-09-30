@@ -2,7 +2,7 @@ from .database import get_database
 from .questions import recuperar_questoes, marcar_questoes_como_utilizadas
 from .utils import solicitar_numero, selecionar_temas, listar_temas
 from .exam import gerar_provas
-from .docx import salvar_prova, salvar_gabaritos
+from .docx_creator import salvar_prova, salvar_gabaritos
 from datetime import datetime
 
 
